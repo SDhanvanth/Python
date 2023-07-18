@@ -67,16 +67,6 @@ Type the below, to get specific help and syantax of a commamd in SEP.
 [*]-->help <command>
 ```
 
-
-## Contributing
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
-
-
 ## Authors
 
 - [@SDhanvanth](https://github.com/SDhanvanth)
